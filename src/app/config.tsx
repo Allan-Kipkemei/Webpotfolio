@@ -40,14 +40,14 @@ import { DiRedis } from "react-icons/di";
 
 export const siteConfig = {
     name: "Alan Kipkemei",
-    title: "Alvin Chang | Full-Stack Developer",
-    email: "alvin@studioaurora.io",
+    title: "Alan Chang | Full-Stack Developer",
+    email: "alannkipkemei@gmail.com",
     alias: "Aurora",
     description:
-        "Alan Kipkemei is a web developer who builds scalable, user-centric applications using Next.js, WordPress, and other frameworks. With a focus on performance, accessibility, and clean code, Alvin creates digital solutions that are both functional and aesthetically pleasing.",
+        "Alan Kipkemei is a web developer who builds scalable, user-centric applications using Next.js, WordPress, and other frameworks. With a focus on performance, accessibility, and clean code, Alan creates digital solutions that are both functional and aesthetically pleasing.",
     keywords:
         "Alan Kipkemei, full-stack developer, web development, Next.js, WordPress, React, Node.js, scalable applications, clean code",
-    url: "https://alvinchang.dev",
+    url: "alusmabel.xyz",
     taglines: [
         "🚀 Coding Simplicity, Crafting Solutions: Bringing Ideas to Life, One Line at a Time. ✨ Let's transform challenges into digital possibilities with precision and creativity!",
         "🎨 Where Code Meets Creativity: Building Digital Experiences that Matter. 🌐 From intuitive interfaces to powerful backend systems, I create solutions that engage and inspire.",
@@ -142,7 +142,7 @@ export const siteConfig = {
                 description:
                     "This is my portfolio website. I built it to showcase my projects and skills. It is a static site built with Next.js, Tailwind CSS, and Shadcn/UI. I used the following technologies to build it:",
                 logo: "/projects/portfolio/portfolio-logo.webp",
-                thumbnail: "/projects/portfolio/portfolio-thumbnail.webp",
+                thumbnail: "",
                 repoLink: "https://github.com/Allan-Kipkemei/FoodOrderingApp.git",
                 technologies: [
                     {
@@ -180,7 +180,7 @@ export const siteConfig = {
                 description:
                     "Built for a client, Zambia Casino is a sleek landing page for an online casino targeting the Zambian market. I designed and developed a responsive, high-performance site that effectively showcases the casino's offerings, promotions, and games. The project emphasizes strong visual elements, fast loading times, and intuitive navigation to optimize user engagement and conversion rates in the competitive online gambling space.",
                 logo: "/projects/zambia/zambia-logo.webp",
-                thumbnail: "/projects/zambia/zambia-thumbnail.webp",
+                thumbnail: "",
                 repoLink: "https://github.com/Allan-Kipkemei/Resume-maker.git",
                 technologies: [
                     {

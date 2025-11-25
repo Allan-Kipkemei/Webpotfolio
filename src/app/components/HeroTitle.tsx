@@ -24,7 +24,7 @@ export default function HeroTitle() {
                     width={28}
                     height={28}
                 />
-                <h1>Hey there, I'm Alvin! 👋</h1>
+                <h1>Hey there, I'm Allan 👋</h1>
             </MotionTag>
             <MotionTag
                 tag="h1"

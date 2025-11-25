@@ -8,7 +8,7 @@ This is a personal portfolio website for Alan Kipkemei, showcasing projects, blo
 
 While this project's code is open source, please note the following:
 
-- **Attribution Required**: If you use this template for commercial purposes, attribution to Allan Kipkemei (https://alvinchang.dev) is required.
+- **Attribution Required**: If you use this template for commercial purposes, attribution to Allan Kipkemei () is required.
 - **Copyright Notice**: The following elements are copyrighted and NOT available for reuse:
   - All logos and branding elements
   - Blog content and articles
