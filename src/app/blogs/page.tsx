@@ -22,7 +22,7 @@ export const metadata: Metadata = {
                 url: "/horizontal-logo.png",
                 width: 1100,
                 height: 300,
-                alt: "Alvin Chang Portfolio Logo",
+                alt: "Allan Chang Portfolio Logo",
             },
         ],
     }

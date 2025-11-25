@@ -19,7 +19,7 @@ export default function HeroTitle() {
             >
                 <Image
                     src="/logox.png"
-                    alt="Alvin Chang Portfolio Logo"
+                    alt="Allan Chang Portfolio Logo"
                     className="w-7 h-7 mr-1 rounded-md"
                     width={28}
                     height={28}

@@ -35,13 +35,13 @@ export async function generateMetadata(props: TProps): Promise<Metadata> {
             description,
             url: `https://alvinchang.dev/blogs/${blog.slug}`,
             type: "article",
-            siteName: "Alvin Chang",
+            siteName: "Alan Chang",
             images: [
                 {
                     url: "/horizontal-logo.png",
                     width: 1100,
                     height: 300,
-                    alt: "Alvin Chang Portfolio Logo",
+                    alt: "Alan Chang Portfolio Logo",
                 },
             ],
         },
