@@ -64,7 +64,7 @@ To get a local copy up and running, follow these steps:
    ```
 
 2. Navigate to the project directory:
-   ```bash
+   ```bashFF
    cd aurora-portfolio
    ```
 

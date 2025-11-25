@@ -39,8 +39,8 @@ import { DiRedis } from "react-icons/di";
 
 
 export const siteConfig = {
-    name: "Alan Kipkemei",
-    title: "Alan Chang | Full-Stack Developer",
+    name: "Alan ",
+    title: "Alan  | Full-Stack Developer",
     email: "alannkipkemei@gmail.com",
     alias: "Aurora",
     description:
