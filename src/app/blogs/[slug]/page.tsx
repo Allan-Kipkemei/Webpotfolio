@@ -21,7 +21,7 @@ export async function generateMetadata(props: TProps): Promise<Metadata> {
 
     const description = stripHtmlAndDecode(blog.excerpt.rendered);
     return {
-        title: blog.title.rendered + " - Alvin Chang",
+        title: blog.title.rendered + " - Allan Kiplagat",
         description,
         keywords:
             blog.title.rendered +
