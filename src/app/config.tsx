@@ -57,7 +57,7 @@ export const siteConfig = {
     socialLinks: [
         {
             icon: <FaGithub />,
-            url: "https://github.com/auroradream04",
+            url: "https://github.com/Allan-Kipkemei",
         },
         {
             icon: <FaLinkedin />,
@@ -65,23 +65,23 @@ export const siteConfig = {
         },
         {
             icon: <FaSquareXTwitter />,
-            url: "https://x.com/aurora_dream04",
+            url: "",
         },
         {
             icon: <FaThreads />,
-            url: "https://www.threads.com/@schrodinger0404",
+            url: "",
         },
         {
             icon: <SiBluesky />,
-            url: "https://bsky.app/profile/alvinchang.dev",
+            url: "h",
         },
         {
             icon: <FaDiscord />,
-            url: "https://discord.gg/pwYGjDebkF",
+            url: "",
         },
         {
             icon: <IoIosMail />,
-            url: "mailto:alvin@studioaurora.io",
+            url: "alankipkemei@gmail.com",
         },
     ],
     sections: {
