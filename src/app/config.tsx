@@ -166,13 +166,10 @@ export const siteConfig = {
                 previewImages: [
                     "/projects/portfolio/food1.jpg",
                     "/projects/portfolio/food2.jpg",
-                    "/projects/portfolio/3.webp",
-                    "/projects/portfolio/4.webp",
-                    "/projects/portfolio/5.webp",
-                    "/projects/portfolio/6.webp"
+                   
                 ],
                 previewVideos: [
-                    "https://video-proxy-worker.alvs131313.workers.dev/portfolio-video-4k/output.m3u8"
+                    ""
                 ]
             },
             {
@@ -209,13 +206,10 @@ export const siteConfig = {
                     "/projects/portfolio/res1.png",
                     "/projects/portfolio/res2.png",
                     "/projects/portfolio/res3.png",
-                    "/projects/zambia/4.webp",
-                    "/projects/zambia/5.webp",
-                    "/projects/zambia/6.webp",
-                    "/projects/zambia/7.webp"
+                    
                 ],
                 previewVideos: [
-                    "https://video-proxy-worker.alvs131313.workers.dev/zambia-video-4k/output.m3u8"
+                    ""
                 ]
             },
             {
@@ -224,7 +218,7 @@ export const siteConfig = {
                     "This is my portfolio website. I built it to showcase my projects and skills. It is a static site built with Next.js, Tailwind CSS, and Shadcn/UI. I used the following technologies to build it:",
                 logo: "/projects/portfolio/portfolio-logo.webp",
                 thumbnail: "/projects/portfolio/portfolio-thumbnail.webp",
-                repoLink: "https://github.com/auroradream04/aurora-portfolio",
+                repoLink: "https://github.com/Allan-Kipkemei/Webpotfolio",
                 technologies: [
                     {
                         icon: <RiNextjsFill className="text-[#FFF]" />,
@@ -243,7 +237,7 @@ export const siteConfig = {
                         name: "TypeScript",
                     },
                 ],
-                link: "https://alvinchang.dev",
+                link: "https://alusmabel.xyz",
                 previewImages: [
                     "/projects/portfolio/1.webp",
                     "/projects/portfolio/2.webp",
@@ -253,7 +247,7 @@ export const siteConfig = {
                     "/projects/portfolio/6.webp"
                 ],
                 previewVideos: [
-                    "https://video-proxy-worker.alvs131313.workers.dev/portfolio-video-4k/output.m3u8"
+                    ""
                 ]
             },
             {
@@ -288,13 +282,10 @@ export const siteConfig = {
                 link: "https://genzify-app-wine.vercel.app/",
                 previewImages: [
                     "/projects/genz/1.webp",
-                    "/projects/genz/2.webp",
-                    "/projects/genz/3.webp",
-                    "/projects/genz/4.webp",
-                    "/projects/genz/5.webp"
+                    
                 ],
                 previewVideos: [
-                    "https://video-proxy-worker.alvs131313.workers.dev/genz-video-4k/output.m3u8"
+                    ""
                 ]
             },
             {

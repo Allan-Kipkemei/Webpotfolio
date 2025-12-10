@@ -70,7 +70,7 @@ export default function RootLayout({
                 />
                 <meta
                     name="apple-mobile-web-app-title"
-                    content="AlvinChang.dev"
+                    content="Alan.dev"
                 />
                 <link rel="manifest" href="/site.webmanifest" />
                 <link 

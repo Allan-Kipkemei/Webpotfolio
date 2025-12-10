@@ -10,7 +10,7 @@ import { siteConfig } from "@/app/config";
 import ReadingProgressBar from '@/app/components/ReadingProgressBar';
 
 // You would likely pull this data from a config or context
-const yourName = "Alvin Chang";
+const yourName = "Alan Kipkemei";
 const yourTitle = "Full Stack Developer";
 const expertiseTags = ["React", "Next.js", "TypeScript", "Node.js"];
 const socialLinks = siteConfig.socialLinks;
