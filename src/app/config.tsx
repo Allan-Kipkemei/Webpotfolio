@@ -128,8 +128,8 @@ export const siteConfig = {
                     "Built responsive web apps, e-commerce platforms, and custom API solutions primarily using Next.js, Tailwind CSS, and TypeScript. Managed entire development lifecycles from initial client consultation and strategic planning to development, deployment, and ongoing support. Focused heavily on delivering high-performance, SEO-friendly solutions with modern, intuitive user experiences, ensuring client satisfaction through proactive communication and timely project delivery.",
             },
             {
-                company: "Altera Karna Business Corp.",
-                position: "Software Engineer",
+                company: "Leja.",
+                position: "Software Engineer Intern",
                 duration: "2023 - 2024",
                 description:
                     "Developed and maintained various dynamic websites such as streaming services, interactive landing pages, and content-driven news platforms utilizing Next.js, WordPress, and Express.js. Engineered robust APIs and automated internal processes with advanced web scraping tools, significantly enhancing operational efficiency. Additionally, designed and built desktop applications using Electron to streamline internal workflows and support team productivity.",
@@ -178,8 +178,8 @@ export const siteConfig = {
             {
                 title: "Resume maker",
                 description:
-                    "Built for a client, Zambia Casino is a sleek landing page for an online casino targeting the Zambian market. I designed and developed a responsive, high-performance site that effectively showcases the casino's offerings, promotions, and games. The project emphasizes strong visual elements, fast loading times, and intuitive navigation to optimize user engagement and conversion rates in the competitive online gambling space.",
-                logo: "/projects/zambia/zambia-logo.webp",
+                    ".",
+                logo: "",
                 thumbnail: "",
                 repoLink: "https://github.com/Allan-Kipkemei/Resume-maker.git",
                 technologies: [
