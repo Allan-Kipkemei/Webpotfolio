@@ -128,7 +128,7 @@ export const siteConfig = {
                     "Built responsive web apps, e-commerce platforms, and custom API solutions primarily using Next.js, Tailwind CSS, and TypeScript. Managed entire development lifecycles from initial client consultation and strategic planning to development, deployment, and ongoing support. Focused heavily on delivering high-performance, SEO-friendly solutions with modern, intuitive user experiences, ensuring client satisfaction through proactive communication and timely project delivery.",
             },
             {
-                company: "Leja.",
+                company: "Smartguard.",
                 position: "Software Engineer Intern",
                 duration: "2023 - 2024",
                 description:
