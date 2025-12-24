@@ -6,7 +6,7 @@ import { IoClose } from "react-icons/io5";
 import { motion, AnimatePresence } from 'framer-motion';
 import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa"; // Assuming these icons are needed
 import Link from 'next/link';
-import { siteConfig } from "@/app/config";
+import { siteConfig } from "@/app/config"; 
 import ReadingProgressBar from '@/app/components/ReadingProgressBar';
 
 // You would likely pull this data from a config or context
