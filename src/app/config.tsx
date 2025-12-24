@@ -42,7 +42,7 @@ export const siteConfig = {
     name: "Alan ",
     title: "Alan  | Full-Stack Developer",
     email: "alannkipkemei@gmail.com",
-    alias: "Aurora",
+    alias: "Allan",
     description:
         "Alan Kipkemei is a web developer who builds scalable, user-centric applications using Next.js, WordPress, and other frameworks. With a focus on performance, accessibility, and clean code, Alan creates digital solutions that are both functional and aesthetically pleasing.",
     keywords:
@@ -61,7 +61,7 @@ export const siteConfig = {
         },
         {
             icon: <FaLinkedin />,
-            url: "https://www.linkedin.com/in/auroradream04/",
+            url: "https://www.linkedin.com/in/allan-kipkemei/",
         },
         {
             icon: <FaSquareXTwitter />,
@@ -256,7 +256,7 @@ export const siteConfig = {
                     "GenZify is an AI-powered tool I developed to transform everyday text into trendy Gen Z-style language. I managed both the front-end design and back-end development, integrating AI functionality for smooth and creative rephrasings. The platform delivers a fun, engaging experience, perfect for anyone looking to add a modern twist to their communication. This project highlights my skills in blending AI with user-centric design to create a playful, interactive web tool.",
                 logo: "/projects/genz/genz-logo.webp",
                 thumbnail: "/projects/genz/genz-thumbnail.webp",
-                repoLink: "https://github.com/auroradream04/genzify-app",
+                repoLink: "https://github.com/Allan-Kipkemei/genzify-app.git",
                 technologies: [
                     {
                         icon: <RiNextjsFill className="text-[#FFF]" />,

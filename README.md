@@ -65,7 +65,7 @@ To get a local copy up and running, follow these steps:
 
 2. Navigate to the project directory:
    ```bashFF
-   cd aurora-portfolio
+   cd allan-portfolio
    ```
 
 3. Install dependencies:
