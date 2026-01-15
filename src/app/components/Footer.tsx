@@ -21,7 +21,7 @@ export default function Footer({ isSticky, noAnimate }: TProps) {
             }`}
         >
             <p className="mb-0 leading-none">
-                Made with ❤️ by{"Allan "}
+                Made with ❤️ by{""}
                 <Link
                     className="underline uppercase font-bold text-blue-400 hover:text-pink-400 transition-colors duration-300"
                     href={

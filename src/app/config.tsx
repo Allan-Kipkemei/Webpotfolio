@@ -121,24 +121,33 @@ export const siteConfig = {
         `,
         experiences: [
             {
-                company: "Freelance",
-                position: "Full-stack Web Developer",
-                duration: "2024 - Present",
+                company: "Agrianalytica",
+                position: "Full Stack Developer",
+                duration: "Feb 2024 - Nov 2024",
+                location: "Nairobi, Kenya",
                 description:
-                    "Built responsive web apps, e-commerce platforms, and custom API solutions primarily using Next.js, Tailwind CSS, and TypeScript. Managed entire development lifecycles from initial client consultation and strategic planning to development, deployment, and ongoing support. Focused heavily on delivering high-performance, SEO-friendly solutions with modern, intuitive user experiences, ensuring client satisfaction through proactive communication and timely project delivery.",
+                    "Optimized PostgreSQL and MySQL databases, improving query performance by 40% through advanced indexing and caching strategies. Built data-driven REST APIs for enterprise systems to ensure scalability across millions of records, and designed ETL pipelines for financial data. Deployed Dockerized Golang services on Oracle Cloud and AWS, collaborating with DevOps to ensure secure, high-availability delivery.",
             },
             {
-                company: "Smartguard.",
-                position: "Software Engineer Intern",
-                duration: "2023 - 2024",
+                company: "Detaline Ventures",
+                position: "Software Developer Intern",
+                duration: "Apr 2023 - Nov 2024",
+                location: "Nairobi",
                 description:
-                    "Developed and maintained various dynamic websites such as streaming services, interactive landing pages, and content-driven news platforms utilizing Next.js, WordPress, and Express.js. Engineered robust APIs and automated internal processes with advanced web scraping tools, significantly enhancing operational efficiency. Additionally, designed and built desktop applications using Electron to streamline internal workflows and support team productivity.",
+                    "Developed a Smart OCR System using Python, OpenCV, and Tesseract to extract structured data from smartcards with high accuracy. Built and maintained SaaS platforms using Golang and Java (Spring Boot), serving over 100k users with 99.99% uptime. Modernized frontends with Next.js and TypeScript, automated CI/CD pipelines using Jenkins and GitHub Actions, and secured systems via OAuth2 and JWT.",
+            },
+            {
+                company: "Particle Health",
+                position: "Backend Developer Volunteer",
+                duration: "Feb 2022 - Nov 2022",
+                location: "New York, NY",
+                description:
+                    "Built provider data platforms with 99.99% uptime, supporting high-volume healthcare transactions. Developed optimized REST/gRPC APIs with PostgreSQL and Redis, improving response times by 45%. Implemented real-time data pipelines using Kafka and Golang, deployed microservices on AWS/Azure using Kubernetes, and ensured HIPAA compliance and system observability via Prometheus and Grafana.",
             },
         ],
         projects: [
-
             {
-                title: "Food delivery application" ,
+                title: "Food delivery application",
                 description:
                     "This is my portfolio website. I built it to showcase my projects and skills. It is a static site built with Next.js, Tailwind CSS, and Shadcn/UI. I used the following technologies to build it:",
                 logo: "/projects/portfolio/portfolio-logo.webp",
@@ -166,7 +175,7 @@ export const siteConfig = {
                 previewImages: [
                     "/projects/portfolio/food1.jpg",
                     "/projects/portfolio/food2.jpg",
-                   
+
                 ],
                 previewVideos: [
                     ""
@@ -206,7 +215,7 @@ export const siteConfig = {
                     "/projects/portfolio/res1.png",
                     "/projects/portfolio/res2.png",
                     "/projects/portfolio/res3.png",
-                    
+
                 ],
                 previewVideos: [
                     ""
@@ -282,7 +291,7 @@ export const siteConfig = {
                 link: "https://genzify-app-wine.vercel.app/",
                 previewImages: [
                     "/projects/genz/1.webp",
-                    
+
                 ],
                 previewVideos: [
                     ""
@@ -373,8 +382,8 @@ export const siteConfig = {
                     "/projects/plaiful/2.webp",
                     "/projects/plaiful/3.webp",
                     "/projects/plaiful/4.webp",
-                    "/projects/plaiful/5.webp", 
-                    "/projects/plaiful/6.webp" 
+                    "/projects/plaiful/5.webp",
+                    "/projects/plaiful/6.webp"
                 ],
                 previewVideos: [
                     "https://video-proxy-worker.alvs131313.workers.dev/plaiful-video-4k/output.m3u8"
