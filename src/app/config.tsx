@@ -77,7 +77,7 @@ export const siteConfig = {
         },
         {
             icon: <FaDiscord />,
-            url: "",
+            url: "https://discord.com/users/sharallan",
         },
         {
             icon: <IoIosMail />,
