@@ -1,4 +1,4 @@
-import { FaGithub, FaFacebook } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
 import { FaLinkedin, FaSquareXTwitter, FaDiscord, FaThreads } from "react-icons/fa6";
 import { IoIosMail } from "react-icons/io";
 import { SiBluesky } from "react-icons/si";
@@ -30,7 +30,6 @@ import {
     SiElectron,
     SiDocker,
     SiDrizzle,
-    SiMui,
     SiGit,
 } from "react-icons/si";
 import { GrGraphQl } from "react-icons/gr";
@@ -39,15 +38,15 @@ import { DiRedis } from "react-icons/di";
 
 
 export const siteConfig = {
-    name: "Alan ",
-    title: "Alan  | Full-Stack Developer",
+    name: "Alan",
+    title: "Alan | Full-Stack Developer",
     email: "alannkipkemei@gmail.com",
     alias: "Allan",
     description:
         "Alan Kipkemei is a web developer who builds scalable, user-centric applications using Next.js, WordPress, and other frameworks. With a focus on performance, accessibility, and clean code, Alan creates digital solutions that are both functional and aesthetically pleasing.",
     keywords:
         "Alan Kipkemei, full-stack developer, web development, Next.js, WordPress, React, Node.js, scalable applications, clean code",
-    url: "alusmabel.xyz",
+    url: "https://alusmabel.xyz",
     taglines: [
         "🚀 Coding Simplicity, Crafting Solutions: Bringing Ideas to Life, One Line at a Time. ✨ Let's transform challenges into digital possibilities with precision and creativity!",
         "🎨 Where Code Meets Creativity: Building Digital Experiences that Matter. 🌐 From intuitive interfaces to powerful backend systems, I create solutions that engage and inspire.",
@@ -65,15 +64,15 @@ export const siteConfig = {
         },
         {
             icon: <FaSquareXTwitter />,
-            url: "",
+            url: "https://x.com/",
         },
         {
             icon: <FaThreads />,
-            url: "",
+            url: "https://www.threads.net/",
         },
         {
             icon: <SiBluesky />,
-            url: "h",
+            url: "https://bsky.app/",
         },
         {
             icon: <FaDiscord />,
@@ -81,7 +80,7 @@ export const siteConfig = {
         },
         {
             icon: <IoIosMail />,
-            url: "alankipkemei@gmail.com",
+            url: "mailto:alannkipkemei@gmail.com",
         },
     ],
     sections: {
