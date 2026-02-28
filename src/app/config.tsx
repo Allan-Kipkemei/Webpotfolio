@@ -46,11 +46,10 @@ export const siteConfig = {
         "Alan Kipkemei is a web developer who builds scalable, user-centric applications using Next.js, WordPress, and other frameworks. With a focus on performance, accessibility, and clean code, Alan creates digital solutions that are both functional and aesthetically pleasing.",
     keywords:
         "Alan Kipkemei, full-stack developer, web development, Next.js, WordPress, React, Node.js, scalable applications, clean code",
-    url: "https://alusmabel.xyz",
-    taglines: [
-        "🚀 Coding Simplicity, Crafting Solutions: Bringing Ideas to Life, One Line at a Time. ✨ Let's transform challenges into digital possibilities with precision and creativity!",
-        "🎨 Where Code Meets Creativity: Building Digital Experiences that Matter. 🌐 From intuitive interfaces to powerful backend systems, I create solutions that engage and inspire.",
-        "💡 Innovating Beyond the Screen: Crafting Seamless Digital Journeys. 🌟 From concept to completion, let's build the future, one pixel and one line of code at a time.",
+    url: "https://alusmabel.xyz",    taglines: [
+        "Coding simplicity, crafting solutions: bringing ideas to life, one line at a time.",
+        "Where code meets creativity: building digital experiences that matter.",
+        "Innovating beyond the screen: crafting seamless digital journeys from concept to completion.",
     ],
     titles: ["Full-Stack Developer", "NextJS Developer", "Wordpress Developer"],
     socialLinks: [
@@ -562,3 +561,4 @@ export const siteConfig = {
         },
     },
 };
+
